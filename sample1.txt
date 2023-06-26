@@ -2,3 +2,4 @@ username
 email
 password
 contact
+github
